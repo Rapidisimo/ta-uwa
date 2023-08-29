@@ -129,7 +129,7 @@ header {
     .slogan {
         color: #fff;
         grid-column: 1 / 3;
-        grid-row: 2 / 3;
+        grid-row: 2 / 4;
         justify-self: center;
         align-self: end;
     }
