@@ -26,6 +26,7 @@ Inter: https://fonts.google.com/specimen/Inter
 4. Match filter applied to images.
 5. Incorporate semi-translucent rectangle across image
 6. Determine size requirements / manually measure mockups.
+7. Typeface doesn't match what was provided - Original appears to be Helvetica (provided fallback in CSS)
 
 ### Preliminary Research
 - Overlapping elements with CSS Grid: https://youtu.be/EashgVqboWo?si=7M0m9A6-WmYyY00_
