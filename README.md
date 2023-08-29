@@ -35,3 +35,6 @@ Inter: https://fonts.google.com/specimen/Inter
 - CSS filters:https://developer.mozilla.org/en-US/docs/Web/CSS/filter
 - Line break in H1 visually vs semantically: https://css-tricks.com/injecting-line-break/#comment-1601720
 
+
+## Preview
+![App-Preview](./preview-desktop.jpg)
