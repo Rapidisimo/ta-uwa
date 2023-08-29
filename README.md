@@ -20,13 +20,13 @@ Mobile Mockup
 Inter: https://fonts.google.com/specimen/Inter
 
 ### Challenges
-1. Create a responsive layout that incorporates text atop individual images that change aspect ratio when the viewport changes.
-2. Have the text continue to be part of the document flow.
-3. Consider accessibility needs.
-4. Match filter applied to images.
-5. Incorporate semi-translucent rectangle across image
-6. Determine size requirements / manually measure mockups.
-7. Typeface doesn't match what was provided - Original appears to be Helvetica (provided fallback in CSS)
+1. ✅ Create a responsive layout that incorporates text atop individual images that change aspect ratio when the viewport changes.
+2. ✅ Have the text continue to be part of the document flow.
+3. ✅ Consider accessibility needs (aria label / not using br tag for semantic reasons).
+4. ❌ Match filter applied to images.
+5. ❌ Incorporate semi-translucent rectangle across image
+6. ✅ Determine size requirements / manually measure mockups.
+7. ✅ Typeface doesn't match what was provided - Original appears to be Helvetica (provided fallback in CSS)
 
 ### Preliminary Research
 - Overlapping elements with CSS Grid: https://youtu.be/EashgVqboWo?si=7M0m9A6-WmYyY00_

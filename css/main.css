@@ -33,8 +33,7 @@ header {
     background-image: url(../images/hero-faces-1.jpg);
     background-size: cover;
     background-position: center;
-    /* filter: invert(22%) sepia(100%) saturate(2059%) hue-rotate(184deg) brightness(99%) contrast(101%); */
-}
+}   
 
 .col-2 {
     background-image: url(../images/hero-faces-2.jpg);
