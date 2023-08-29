@@ -5,19 +5,19 @@ Re-create “Equity In Action” hero using a single index.html using HTML and C
 
 ### Resources & Assets
 
-*Images*
+**Images**
 4 x hero images
 Desktop Mockup
 Mobile Mockup
 
-*Colors*
-For use on hero images.
-#0074B8 (blue)
-#00AD62 (green)
-#FFFF00 (yellow)
-#8EC650 (light green)
+**Colors**
+- For use on hero images.
+- #0074B8 (blue)
+- #00AD62 (green)
+- #FFFF00 (yellow)
+- #8EC650 (light green)
 
-*Typeface*
+**Typeface**
 Inter: https://fonts.google.com/specimen/Inter
 
 ### Challenges
