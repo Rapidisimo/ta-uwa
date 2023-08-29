@@ -11,7 +11,7 @@ Desktop Mockup
 Mobile Mockup
 
 **Colors**
-- For use on hero images.
+For use on hero images.
 - #0074B8 (blue)
 - #00AD62 (green)
 - #FFFF00 (yellow)
