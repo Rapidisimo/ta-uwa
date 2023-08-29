@@ -38,3 +38,4 @@ Inter: https://fonts.google.com/specimen/Inter
 
 ## Preview
 ![App-Preview](./preview-desktop.jpg)
+![App-Preview](./preview-mobile.jpg)
