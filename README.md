@@ -40,5 +40,6 @@ Inter: https://fonts.google.com/specimen/Inter
 
 
 ## Preview
+2nd Version Update Website: https://startling-flan-306b01.netlify.app/
 ![App-Preview](./preview-desktop.jpg)
 ![App-Preview](./preview-mobile.jpg)
