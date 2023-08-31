@@ -93,10 +93,7 @@ header {
     }
 }
 
-
 @media (min-width: 820px) {
-
-    /* Initial Code */
     
     .wrapper {
         max-width: 1280px;
@@ -117,7 +114,27 @@ header {
         grid-template-rows: 1fr;
         height: 724px;
     }
+
+    .blue-overlay,
+    .green-overlay,
+    .yellow-overlay,
+    .light-green-overlay {
+        width: 100%;
+        height: 724px;
+    }
     
+    .blue-overlay {
+        background-color: rgba(0, 116, 184, .5);
+    }
+    .green-overlay {
+        background-color: rgba(0, 173, 98, .5);
+    }
+    .yellow-overlay {
+        background-color: rgba(255, 255, 0, .5);
+    }
+    .light-green-overlay {
+        background-color: rgba(142, 198, 80, .5);
+    }
     /* Portrait Columns End */
     
     /* Header H1 Text Start*/
